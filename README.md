@@ -1,4 +1,4 @@
 # bhavyamittal--demo
 this is my first git repository.
 <br> <!-- next line -->
-Author - Bhavya (Mittals and )
+Author - Bhavya Mittal repo 
